@@ -43,6 +43,6 @@ int main(void)
 		}
 		c++;
 	}
-	putchar(',');
+	putchar('\n');
 	return (0);
 }

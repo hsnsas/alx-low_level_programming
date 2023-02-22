@@ -3,10 +3,12 @@
 /**
  * print_last_digit - a program that prints the last digit of a number
  *
+ * Description: a function displaying the value of the last digit
+ *
  * Return: the value of the last digit
  */
 
-int print_last_digit(int)
+int print_last_digit(int n)
 {
 	int last_digit = n % 10;
 

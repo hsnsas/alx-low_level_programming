@@ -2,7 +2,7 @@
 
 /**
  * main - check code
- *
+ *_isalpha - checks for alphabetic character
  * Return: Always 0
  */
 int main(void)

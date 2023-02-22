@@ -1,5 +1,5 @@
+#include "main.h"
 #include <stdio.h>
-
 /**
  * main - check the code
  *
@@ -7,9 +7,9 @@
  */
 int main(void)
 {
-	int n, num1, num2;
+	int n;
 
-	n = add(num1, num2);
+	n = add(89, 9);
 	printf("%d\n", n);
 	return (0);
 }

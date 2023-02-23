@@ -3,13 +3,13 @@
 
 /**
  * main - check the code
- * Description: a program that prints the numbers from 1 to 100
- *              But for multiples of three print Fizz
- *              for the multiples of five print Buzz
- *              for multiples of both three and five print FizzBuzz.
- * Return: Always 0             
+ * Description: a program that prints the numbers from 1 to 10
+ * but for multiples of three print Fizz
+ * for the multiples of five print Buzz
+ * for both 3 and 5 print FizzBuzz
+ * Return: Always 0
  */
- int main(void)
+int main(void)
 {
 	int i;
 

@@ -1,0 +1,1 @@
+The macro in C language is known as the piece of code which can be replaced by the macro value. The macro is defined with the help of #define preprocessor directive and the macro doesn't end with a semicolon(;). Macro is just a name given to certain values or expressions it doesn't point to any memory location
